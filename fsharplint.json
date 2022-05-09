@@ -1,0 +1,6 @@
+{
+    "globals": {
+      "numIndentationSpaces": 4 ,
+      "ignoreFiles": ["assemblyinfo.*"]
+    }
+}
